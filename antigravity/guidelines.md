@@ -1,23 +1,26 @@
-# Paleta de colores (usar exactamente estos valores)
+Paleta de colores (usar exactamente estos valores)
+Nordic — #19322F (Color principal oscuro)
 
-- Nordic — #19322F (Color principal oscuro)
-- Mosque — #006655 (Color primario de acción)
-- Hint of Green — #D9ECC8 (Fondo suave / tarjetas destacadas)
-- Clear Day — #EEF6F6 (Fondo general de la app)
+Mosque — #006655 (Color primario de acción)
 
-- Fondo principal: Clear Day
-- Botones primarios: Mosque
-- Headers / navegación: Nordic
-- Tarjetas destacadas: Hint of Green
-- Texto principal: Nordic
+Hint of Green — #D9ECC8 (Fondo suave / tarjetas destacadas)
 
-# Tipografía
+Clear Day — #EEF6F6 (Fondo general de la app)
 
-- Uso obligatorio de SF Pro Display
+Fondo principal: Clear Day
 
-# Prioridades
+Botones primarios: Mosque
 
-- Trabaja pensando en reutilizar componentes y estilos.
-- Crea componentes para las tarjetas o cualquier elemento que se repita
-- Maneja carpetas y subcarpetas acorde a las páginas que estás trabajando
-- No hagas configuraciones ni instalaciones de librerías sin consultar primero.
+Headers / navegación: Nordic
+
+Tarjetas destacadas: Hint of Green
+
+Texto principal: Nordic
+
+Tipografía
+Uso obligatorio de SF Pro Display
+Prioridades
+Trabaja pensando en reutilizar componentes y estilos.
+Crea componentes para las tarjetas o cualquier elemento que se repita
+Maneja carpetas y subcarpetas acorde a las páginas que estás trabajando
+No hagas configuraciones ni instalaciones de librerías sin consultar primero.
