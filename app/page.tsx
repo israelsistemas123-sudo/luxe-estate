@@ -1,7 +1,9 @@
-import Navbar from '../components/Navbar';
-import SearchHero from '../components/SearchHero';
-import { FeaturedPropertyCard, MarketPropertyCard } from '../components/PropertyCards';
-import { featuredProperties, marketProperties } from '../lib/data/mockProperties';
+import Navbar from '../components/Navbar/Navbar';
+import SearchHero from '../components/SearchHero/SearchHero';
+import { FeaturedPropertyCard } from '../components/FeaturedPropertyCard/FeaturedPropertyCard';
+import { MarketPropertyCard } from '../components/MarketPropertyCard/MarketPropertyCard';
+import { featuredProperties } from '../lib/data/featuredProperties/featuredProperties';
+import { marketProperties } from '../lib/data/marketProperties/marketProperties';
 
 export default function Home() {
   return (
