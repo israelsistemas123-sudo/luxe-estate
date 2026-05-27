@@ -9,8 +9,9 @@ export const marketProperties: Property[] = [
     beds: 3,
     baths: 2,
     area: '120m²',
-    imageUrl: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDuQ9M7U6euA6_cXmYuXnej-N5IuawAW8ds-4G1mzfqmiBc13qXsPhf9_j_zTB8gfEunrBHo8xMsxYwCw_pl8fsxbxRkmyvLR1N9Tiye5ZJG7fwlLn9MwyBanXYhE0emGwp59es1FEyQTRQbmXLUKO74Yj34ZHqrqIkOtMKhP8CmRFvfoHT5LAe10105vUhKNkxIBvtt530nfLigSUTemOOcJMVNmsgactntRJUwOBU_TZzND7BYtDklr8uZcNYlQOK5U74-ufIf-E',
+    imageUrl: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDuQ9M7U6euA6_cXmYuXnej-N5IuawAW8ds-4G1mzfqmiBc13qXsPhf9_j_zTB8gfEunrBHo8xMsxYawCw_pl8fsxbxRkmyvLR1N9Tiye5ZJG7fwlLn9MwyBanXYhE0emGwp59es1FEyQTRQbmXLUKO74Yj34ZHqrqIkOtMKhP8CmRFvfoHT5LAe10105vUhKNkxIBvtt530nfLigSUTemOOcJMVNmsgactntRJUwOBU_TZzND7BYtDklr8uZcNYlQOK5U74-ufIf-E',
     type: 'sale',
+    isFeatured: false,
   },
   {
     id: 'm2',
@@ -23,6 +24,7 @@ export const marketProperties: Property[] = [
     area: '85m²',
     imageUrl: 'https://lh3.googleusercontent.com/aida-public/AB6AXuB4zNatD3vePhIZAi6OHHJKmamYSgeBNSKjEt32tvkkf4s6aBXCF8R4LNfDfPa9leA0t6N1OKOcP358WwZrnosbCBxSM7EaY2_P7qkx3MinRgmHQn7RvleNTwy8cLigMoR3iv0u83chBVbZYI6BcNMcqv80W-l1pIUgIWZcDIXEqtUatrsojSGfM0lTNDZpkBntBUkRY6NB4ZUymYNYvTHXKbO8NZ6N6uoyuuHqcaRWKzHCNXkOR3p-_EVFAHR8QwijIY_m1mefPZ4',
     type: 'rent',
+    isFeatured: false,
   },
   {
     id: 'm3',
@@ -34,6 +36,7 @@ export const marketProperties: Property[] = [
     area: '98m²',
     imageUrl: 'https://lh3.googleusercontent.com/aida-public/AB6AXuARQWC19e7mleUpjb8CWLztEv_svJeRFOaC2i-9r9GctFuX5Barzhfai9wNM1WW8bcGlqdFM32d3KPf7SItom5ijdHOz5rGGQPeT7PlWs8-y9LkfcsHLQqsLxalhxP94XJo76_mAMp7T2dVj3hPKHNzTDLLiS6ujSdSsyo3onxQthp4ZkVE8op92gyTLUUucaGaxO8vJvyhH3HuWB07EPqT1WsW0lr9Of5lUPonjG9eiqE1XiJXTqzXUZQt5JorfPwCO1MioZA_Zro',
     type: 'sale',
+    isFeatured: false,
   },
   {
     id: 'm4',
@@ -46,6 +49,7 @@ export const marketProperties: Property[] = [
     area: '180m²',
     imageUrl: 'https://lh3.googleusercontent.com/aida-public/AB6AXuBGq4Phm0uDzCnjHAsnWpYTBVpOds_M6iOsJuRQQA5eUZHkztGgtc7eh_OE6wBeyW1-iZh7yyhROnvvmqkAZ9tyAWFGXk0FG52zU4kZ_EDLA0U0cRszy7byNXTeWe0_hS53SYmtCTEV8Y1AM-WxiIC38UMa15QwFDjXtCGQOxoh35K0Ol_70vfsxm0VqDbaWkr8tcEbLTLy0NXH_GcpGK4lAXizgxYOIlFWGyau-4OIfPZRpjCBDbz_qu3VlN201UUJGiuM9ajVd-U',
     type: 'rent',
+    isFeatured: false,
   },
   {
     id: 'm5',
@@ -57,6 +61,7 @@ export const marketProperties: Property[] = [
     area: '50m²',
     imageUrl: 'https://lh3.googleusercontent.com/aida-public/AB6AXuA1w-Hb1289NqZKon3VK8bpmMiCDYYiAMT5egzTINo9m9wSZRHv-k-1IGTVoL1NT8YeZXJHa87JPNDIPrtrbP7jChHq0ypXF90uByhC6VA9O788_B4FY8JVg4chbWN9bcrn9-9FvVvfZX8Aj60Iqg_C8CsCA9DEnJqi2rJvzmK5UP5z-9XRTRjBneAPCa8iGgGWBD9yYKsziN6vn0ePBDGo3inieQtmbr46W31p6UfQ649XRxTm7ygOY2J-jxW1r0qWs8i97KGpkTE',
     type: 'sale',
+    isFeatured: false,
   },
   {
     id: 'm6',
@@ -69,6 +74,7 @@ export const marketProperties: Property[] = [
     area: '110m²',
     imageUrl: 'https://lh3.googleusercontent.com/aida-public/AB6AXuCfGXdY0g51ojSg0GMeTW9ndLY3mpKK3oMtWxo2nwd_dwi1pgn1Boi_ovaDGIFhUA7nwu3WdBch8ZuHxoHu3QfgM5ceAsp8pglRVyCROWNcy9zeDNP2wqLoevyKGcaEyFYHYpIx2KK46nLWthnHiHugmkKw48kJsL8IjMO1bL3T1Zwt8bvQDTTUHTgB3GqZ2RU2asRzF1jVg0rLw3LWXXTq0YF1CsbhlWpYOuCEpH5bB8zkBlbKXR4At_M46AL8rJqn5c6BrPD5PP8',
     type: 'rent',
+    isFeatured: false,
   },
   {
     id: 'm7',
@@ -80,6 +86,7 @@ export const marketProperties: Property[] = [
     area: '240m²',
     imageUrl: 'https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=800&q=80',
     type: 'sale',
+    isFeatured: false,
   },
   {
     id: 'm8',
@@ -92,6 +99,7 @@ export const marketProperties: Property[] = [
     area: '95m²',
     imageUrl: 'https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=80',
     type: 'rent',
+    isFeatured: false,
   },
   {
     id: 'm9',
@@ -103,6 +111,7 @@ export const marketProperties: Property[] = [
     area: '145m²',
     imageUrl: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80',
     type: 'sale',
+    isFeatured: false,
   },
   {
     id: 'm10',
@@ -114,6 +123,7 @@ export const marketProperties: Property[] = [
     area: '210m²',
     imageUrl: 'https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=800&q=80',
     type: 'sale',
+    isFeatured: false,
   },
   {
     id: 'm11',
@@ -126,6 +136,7 @@ export const marketProperties: Property[] = [
     area: '105m²',
     imageUrl: 'https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=800&q=80',
     type: 'rent',
+    isFeatured: false,
   },
   {
     id: 'm12',
@@ -137,6 +148,7 @@ export const marketProperties: Property[] = [
     area: '130m²',
     imageUrl: 'https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=80',
     type: 'sale',
+    isFeatured: false,
   },
   {
     id: 'm13',
@@ -148,6 +160,7 @@ export const marketProperties: Property[] = [
     area: '580m²',
     imageUrl: 'https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=800&q=80',
     type: 'sale',
+    isFeatured: false,
   },
   {
     id: 'm14',
@@ -160,6 +173,7 @@ export const marketProperties: Property[] = [
     area: '62m²',
     imageUrl: 'https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80',
     type: 'rent',
+    isFeatured: false,
   },
   {
     id: 'm15',
@@ -171,6 +185,7 @@ export const marketProperties: Property[] = [
     area: '290m²',
     imageUrl: 'https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=800&q=80',
     type: 'sale',
+    isFeatured: false,
   },
   {
     id: 'm16',
@@ -183,5 +198,6 @@ export const marketProperties: Property[] = [
     area: '220m²',
     imageUrl: 'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=800&q=80',
     type: 'rent',
+    isFeatured: false,
   }
 ];

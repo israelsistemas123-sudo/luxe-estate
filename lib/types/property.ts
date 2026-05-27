@@ -10,4 +10,6 @@ export interface Property {
   imageUrl: string;
   tag?: string;
   type: 'sale' | 'rent';
+  /** Whether this property is highlighted in the Featured Collections section */
+  isFeatured: boolean;
 }

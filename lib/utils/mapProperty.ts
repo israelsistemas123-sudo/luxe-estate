@@ -18,6 +18,7 @@ export function mapDbPropertyToProperty(db: DbProperty): Property {
     imageUrl: db.image_url,
     tag: db.tag ?? undefined,
     type: db.type,
+    isFeatured: db.is_featured,
   };
 }
 
